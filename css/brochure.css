@@ -1,0 +1,35 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navbar {
+	color: whitesmoke;
+	background-color: black;
+}
+
+embed {
+	margin-top: 2%;
+	width: 71%;
+	height: 100vh;
+}
+
+p {
+	margin-left: 5% !important;
+	margin-right: 5% !important;
+}
+
+#footer {
+	padding: 10px 20px;
+}
+
+#top {
+	margin-top: 3%;
+}
+
+#bott {
+	margin-bottom: 8%;
+}
+
+#topNav .nav-link:hover {
+	color: whitesmoke;
+}

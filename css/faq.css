@@ -1,0 +1,39 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.jumbotron {
+  background-image: url(../imgs/faq.jpg);
+  background-size: cover;
+  background-position: center;
+  color: whitesmoke;
+}
+
+.navbar {
+  color: whitesmoke;
+  background-color: black;
+}
+
+#footer {
+  padding: 10px 20px;
+}
+
+#q {
+  font-size: 1.2rem;
+  margin-bottom: 10%;
+}
+
+#topText {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+#topText h1 {
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+        0px 8px 13px rgba(0, 0, 0, 0.3),
+        0px 18px 23px rgba(0, 0, 0, 0.3);
+}
+
+#topNav .nav-link:hover {
+  color: whitesmoke;
+}

@@ -1,0 +1,47 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.jumbotron {
+	background-image: url(../imgs/contact.jpg);
+	background-size: cover;
+	background-position: center;
+	color: whitesmoke;
+}
+
+.navbar {
+	color: whitesmoke;
+	background-color: black;
+}
+
+.con {
+	margin-bottom: 10px;
+}
+
+#info {
+	font-size: 1.3rem;
+	margin-bottom: 5%;
+}
+
+#ad {
+	margin-bottom: 2%;
+}
+
+#req {
+	font-size: .8rem;
+}
+
+#topText {
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+#topText h1 {
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+        0px 8px 13px rgba(0, 0, 0, 0.3),
+        0px 18px 23px rgba(0, 0, 0, 0.3);
+}
+
+#topNav .nav-link:hover {
+	color: whitesmoke;
+}
